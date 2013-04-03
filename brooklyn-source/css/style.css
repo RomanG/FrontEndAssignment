@@ -3,17 +3,25 @@ body {
 	line-height: 17px;
 	font-family: "Times New Roman", serif;
 	color: #656565;
-	a:hover{color:#20222a;}
+}
+
+a:hover{color:#20222a;
+}
+
+a:link {
+	color:#64a5d1;
+	text-decoration:none;
 }
 
 #container{
 	margin-left:70px;
-
 }
+
 #logo{
 	margin:42px 0 15px 0px;
 	position: relative;
 }
+
 #content{
 	margin-left: 70px;
 }
@@ -25,6 +33,7 @@ h2{
 h5{
 	margin-top:15px;
 	margin-bottom: -15px;
+	color:#64a5d1;
 }
 
 .copy{
