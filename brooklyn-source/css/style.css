@@ -3,7 +3,53 @@ body {
 	line-height: 17px;
 	font-family: "Times New Roman", serif;
 	color: #656565;
+	a:hover{color:#20222a;}
 }
 
-Link Hover Color = #20222a
+#container{
+	margin-left:70px;
 
+}
+#logo{
+	margin:42px 0 15px 0px;
+	position: relative;
+}
+#content{
+	margin-left: 70px;
+}
+
+h2{
+	margin-top:10px
+}
+
+h5{
+	margin-top:15px;
+	margin-bottom: -15px;
+}
+
+.copy{
+max-width: 960px;}
+
+.lookatme{
+	width:226px;
+	height:145px;
+	border:5px solid #c5c5c5;
+	margin-right:3px;
+	margin-bottom: 2px;
+	float:left;
+}
+
+#first_left{
+margin-left:70px;
+}
+
+.inner{
+	width:224px;
+	height:144px;
+	border:1px solid white;
+}
+
+#copyright{
+	clear: left;
+	margin-left: 70px;
+}
