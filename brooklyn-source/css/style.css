@@ -37,7 +37,9 @@ h5{
 }
 
 .copy{
-max-width: 960px;}
+max-width: 960px;
+margin-bottom: 25px;
+}
 
 .lookatme{
 	width:226px;
